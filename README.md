@@ -16,11 +16,6 @@
 - Data-Driven Research & Automation
 - Open-Source Contribution
 
----
-
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
 
 ---
 ```text
