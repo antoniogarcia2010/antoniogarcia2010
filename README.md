@@ -1,15 +1,20 @@
-# antonio-garcia-rodrigues
+# antonio-garcia-rodriguez
 
 ```text
-============================================================
-[SYSTEM_STATUS]: ONLINE // COMPUTER SCIENCE
-============================================================
+======================================================================
+[SYSTEM]: ACTIVE // HIGH_SCHOOL_RESEARCHER // FUTURE CS STUDENT
+======================================================================
 ```
 
-### 🛠️ Tech & Engineering
-- **Languages & Core:** Python, HTML/CSS, Git & GitHub
-- **Focus:** Software Engineering, Algorithms, Data Structures, Backend
-- **Contact:** antoniogarciarodrigues10@gmail.com
+### 🧠 Technical Foundation
+- **Core Concepts:** Data Structures, Algorithms, Problem Solving
+- **Tools & Environments:** Python, HTML/CSS, Git/GitHub, Linux
+- **Methodology:** Clean Code, Project Documentation
+
+### 🔬 Academic Interest
+- Applied Computer Science & Software Engineering
+- Data-Driven Research & Automation
+- Open-Source Contribution
 
 ---
 
@@ -17,6 +22,10 @@
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
+---
+```text
+[CONTACT]: antoniogarciarodrigues10@gmail.com
+```
 
 <!--
 **antoniogarcia2010/antoniogarcia2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
