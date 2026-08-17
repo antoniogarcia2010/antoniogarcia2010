@@ -1,9 +1,22 @@
-### Antonio Garcia Rodrigues
+# antonio-garcia-rodrigues
 
-Brazilian software developer focused on academic research.
+```text
+============================================================
+[SYSTEM_STATUS]: ONLINE // COMPUTER SCIENCE
+============================================================
+```
 
-- 📍 Brazil (GMT-3)
-- 📧 antoniogarciarodrigues10@gmail.com
+### 🛠️ Tech & Engineering
+- **Languages & Core:** Python, HTML/CSS, Git & GitHub
+- **Focus:** Software Engineering, Algorithms, Data Structures, Backend
+- **Contact:** antoniogarciarodrigues10@gmail.com
+
+---
+
+<p align="left">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
 
 <!--
 **antoniogarcia2010/antoniogarcia2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
