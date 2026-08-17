@@ -2,7 +2,7 @@
 
 ```text
 ======================================================================
-[SYSTEM]: ACTIVE // HIGH_SCHOOL_RESEARCHER // FUTURE CS STUDENT
+[SYSTEM]: ACTIVE // FUTURE CS STUDENT
 ======================================================================
 ```
 
