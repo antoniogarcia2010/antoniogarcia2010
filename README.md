@@ -1,4 +1,9 @@
-## Hi there 👋
+### Antonio Garcia Rodrigues
+
+Brazilian software developer focused on academic research.
+
+- 📍 Brazil (GMT-3)
+- 📧 antoniogarciarodrigues10@gmail.com
 
 <!--
 **antoniogarcia2010/antoniogarcia2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
